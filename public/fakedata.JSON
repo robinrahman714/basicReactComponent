@@ -1,0 +1,84 @@
+{
+  "albums": [
+    {
+      "id":"1",
+      "name":"Appetite for Destruction",
+      "image":"https://upload.wikimedia.org/wikipedia/en/6/60/GunsnRosesAppetiteforDestructionalbumcover.jpg",
+      "artist":"Guns N' Roses",
+      "release":"1987",
+      "budget":"1000"
+    },
+    {
+      "id":"2",
+      "name":"Master of Puppets",
+      "image":"https://images-na.ssl-images-amazon.com/images/I/91pHIsMbZpL._SL1500_.jpg",
+      "artist":"Metallica",
+      "release":"1985",
+      "budget":"900"
+    },
+    {
+      "id":"3",
+      "name":"Back in Black",
+      "image":"https://upload.wikimedia.org/wikipedia/commons/9/92/ACDC_Back_in_Black.png",
+      "artist":"AC DC",
+      "release":"1980",
+      "budget":"850"
+    },
+    {
+      "id":"4",
+      "name":"Metallica",
+      "image":"https://www.rollingstone.com/wp-content/uploads/2018/06/rs-144884-c3078448db97fe00897e94827f7642f470e4a4e7.jpg",
+      "artist":"Metallica",
+      "release":"1991",
+      "budget":"1100"
+    },
+    {
+      "id":"5",
+      "name":"Led Zeppelin IV",
+      "image":"https://upload.wikimedia.org/wikipedia/en/2/26/Led_Zeppelin_-_Led_Zeppelin_IV.jpg",
+      "artist":"Led Zeppelin",
+      "release":"1971",
+      "budget":"875"
+    },
+    {
+      "id":"6",
+      "name":"Physical Graffiti",
+      "image":"https://upload.wikimedia.org/wikipedia/en/e/e3/Led_Zeppelin_-_Physical_Graffiti.jpg",
+      "artist":"Led Zeppelin",
+      "release":"1975",
+      "budget":"960"
+    },
+    {
+      "id":"7",
+      "name":"Van Halen",
+      "image":"https://upload.wikimedia.org/wikipedia/en/0/0d/Van_Halen_album.jpg",
+      "artist":"Van Halen",
+      "release":"1978",
+      "budget":"980"
+    },
+    {
+      "id":"8",
+      "name":"Led Zeppelin",
+      "image":"https://upload.wikimedia.org/wikipedia/en/e/ef/Led_Zeppelin_-_Led_Zeppelin_%281969%29_front_cover.png",
+      "artist":"Led Zeppelin",
+      "release":"1969",
+      "budget":"1000"
+    },
+    {
+      "id":"9",
+      "name":"Nevermind",
+      "image":"https://images.theconversation.com/files/421858/original/file-20210917-31825-dmecrb.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=1200&h=1200.0&fit=crop",
+      "artist":"Nirvana",
+      "release":"1991",
+      "budget":"850"
+    },
+    {
+      "id":"10",
+      "name":"Greatest Hits",
+      "image":"https://images-na.ssl-images-amazon.com/images/I/81rvJ7chswL._AC_SL1400_.jpg",
+      "artist":"Guns N' Roses",
+      "release":"2004",
+      "budget":"980"
+    }
+  ]
+}
